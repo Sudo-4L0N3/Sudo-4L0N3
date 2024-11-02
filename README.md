@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sud0-4L0N3&label=Profile%20views&color=0e75b6&style=flat" alt="Sud0-4L0N3" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **BlockChain**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **Web vulnerabilities**
 
 - 📫 How to reach me **nothing@gmail.com**
 
-- ⚡ Fun fact **I'm always curios**
+- ⚡ Fun fact **I'm always curios lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
