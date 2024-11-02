@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif)](https://rishavchanda.io)
 <h1 align="Center">Hello, Hackers😅</h1>
 <h3 align="center">I break stuff to secure stuff (legally). I love coffee and beer. I'm a newbie cybersecurity guy who is currently working at HackerOne.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/38d5854392d69b79a22dfe7a0a39fd84519618d2e5e035d49da7f193d1669365/68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sud0-4L0N3&label=Profile%20views&color=0e75b6&style=flat" alt="Sud0-4L0N3" /> </p>
 
