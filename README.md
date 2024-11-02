@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, Python**
 
-- 📫 How to reach me **rdavechiva@gmail.com**
+- 📫 How to reach me **nothing@gmail.com**
 
 - ⚡ Fun fact **I'm always curios**
 
