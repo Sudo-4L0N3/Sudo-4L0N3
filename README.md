@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web vulnerabilities**
 
-- 📫 How to reach me **nothing@gmail.com**
+- 📫 How to reach me **activeoverflow@proton.me**
 
 - ⚡ Fun fact **I'm always curios lol**
 
